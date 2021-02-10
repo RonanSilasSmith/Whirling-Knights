@@ -22,6 +22,7 @@ for(i=0; i<story.length; i++){
             type: 'list',
             message: object.question,
             name: 'response',
+            //You need to figure out what's going on below
             choices: object.answers
         }).then(answers=>{})
     }
