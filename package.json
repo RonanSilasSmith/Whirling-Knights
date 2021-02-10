@@ -1,0 +1,22 @@
+{
+  "name": "whirling-nights",
+  "version": "1.0.0",
+  "description": "Text based RPG",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonanSilasSmith/Whirling-Knights.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonanSilasSmith/Whirling-Knights/issues"
+  },
+  "homepage": "https://github.com/RonanSilasSmith/Whirling-Knights#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
